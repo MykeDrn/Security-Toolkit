@@ -1,6 +1,7 @@
 Security Toolkit: Entropy & Cryptographic Primitives
 
 Este toolkit em Python está sendo desenvolvido como objeto de estudo, focando em alta entropia e conformidade com padrões de segurança modernos. O objetivo principal é fornecer utilitários robustos para a criação de segredos, tokens de API e chaves de derivação.
+
 Objetivo do Projeto
 
 O projeto serve como uma implementação prática de conceitos de CSPRNG (Cryptographically Secure Pseudo-Random Number Generator) e análise de entropia, demonstrando o uso correto de módulos críticos como secrets em oposição a geradores pseudo-aleatórios convencionais.
