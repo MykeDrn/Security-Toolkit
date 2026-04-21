@@ -37,7 +37,7 @@ class Generator:
 
         for count in counts.values():
             p = count / total_len
-            entropy -= p * math.log2(p)
+            entropia -= p * math.log2(p)
         return entropia
 
     def avaliar(self, primitiva):
